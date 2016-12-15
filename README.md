@@ -1,2 +1,0 @@
-# amitDS
-creating first repository
